@@ -87,6 +87,7 @@ A versatile and helpful chatbot will be present on our webpage for the aid of th
 <tr align="center">
   
   <td>
+  
 Suvodeep Sinha
 
 <p align="center">
